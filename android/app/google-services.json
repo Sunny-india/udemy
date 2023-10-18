@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132234849967",
+    "project_id": "udemycopy",
+    "storage_bucket": "udemycopy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132234849967:android:a1c16eb387928fcce2ee5a",
+        "android_client_info": {
+          "package_name": "com.sunny.udemycopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132234849967-821kr25shmgpq0qp58f000skd6tf6ke6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9liEJEDfPWrtYfHXJHYFaG-VPgjyeab4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132234849967-821kr25shmgpq0qp58f000skd6tf6ke6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
